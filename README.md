@@ -5,7 +5,7 @@ EXTREMELY IMPORTANT NOTE: This repo is a playable puzzle/adventure game made onl
 
 It functions significantly better if you DOWNLOAD THE REPO as a zip to your computer and play from that. (Don't forget to unzip it!)
 
-It is also HIGHLY recommended that you DO NOT BROWSE through the repo as it WILL SPOIL THE GAME!
+It is also HIGHLY recommended that you DO NOT BROWSE THROUGH THE REPO ON GITHUB as it WILL SPOIL THE GAME!
 
 If you wish, feel free to browse through the repo AFTER FINISHING THE GAME or if you are really stuck.
 
