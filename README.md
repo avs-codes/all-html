@@ -9,4 +9,7 @@ It is also HIGHLY recommended that you DO NOT BROWSE through the repo as it WILL
 
 If you wish, feel free to browse through the repo AFTER FINISHING THE GAME or if you are really stuck.
 
+Oh and outside of the game, don't worry about any of the "placeholder.txt" files. They don't have any content and were just necessary
+to make as a result of how GitHub manages repos. So you can fully ignore them without any problems in the game. 
+
 Besides that, I really hope you enjoy the puzzle!
