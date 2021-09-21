@@ -1,7 +1,7 @@
 # all-html
 Core 1 Interaction All HTML Project by Alex Vinicius Silva
 
-EXTREMELY IMPORTANT NOTE: This repo is a playable puzzle/adventure game made only with HTML.
+EXTREMELY IMPORTANT NOTE: This repo is a playable puzzle/adventure game made only with HTML. Start the puzzle by opening "index.html" as a webpage.
 
 It functions significantly better if you DOWNLOAD THE REPO as a zip to your computer and play from that. (Don't forget to unzip it!)
 
